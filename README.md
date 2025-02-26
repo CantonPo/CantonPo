@@ -37,9 +37,6 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Tools gif">
-        </td>
-        <td>
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
         </td>
@@ -49,7 +46,6 @@
 ##
 <p align="right">
   <span>
-    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=CantonPo&style=for-the-badge" alt="Profile views" height="25" /></a>
     <a href="mailto:dcantonc@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
    </a>
   </span>
