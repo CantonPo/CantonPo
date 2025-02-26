@@ -13,9 +13,7 @@
 ```
 ---
 <table align="center">
-  <img src="![b59a78e2ed76c705f3c0dcb300f3f222aefdcd99](https://github.com/user-attachments/assets/e4f952c4-b29b-41dc-8116-30bd33538e5f)
-" width="35">
-        
+  <img src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" width="35">
 </table>
 
 ##
