@@ -31,8 +31,6 @@
                 height="55"
         />
         </td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
