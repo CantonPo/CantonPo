@@ -13,29 +13,9 @@
 ```
 ---
 <table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-              <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript"
-                width="50"
-                height="55"
-        />
-                      </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux"
-                width="50"
-                height="55"
-        />
-        </td>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
-        </td>
-    </tr>
+  <img src="![b59a78e2ed76c705f3c0dcb300f3f222aefdcd99](https://github.com/user-attachments/assets/e4f952c4-b29b-41dc-8116-30bd33538e5f)
+" width="35">
+        
 </table>
 
 ##
